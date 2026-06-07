@@ -401,6 +401,15 @@ ul {
   gap: 16px;
 }
 
+#service .elementor-widget-icon-box {
+  width: 100%;
+}
+
+#service .elementor-icon-box-wrapper {
+  align-items: center;
+  text-align: center;
+}
+
 .elementor-icon-box-icon {
   width: 56px;
   height: 56px;
